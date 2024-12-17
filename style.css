@@ -1,3 +1,26 @@
-body {
-
+body{
+  background-color:lightpink;
 }
+
+h3{
+  color:orange;
+  font-size: 30px;
+  letter-spacing: 5px;
+  word-spacing: -10px;
+   outline-style: groove;
+  outline-color: coral;
+  outline-width: 10px;
+   text-shadow: 3px 3px 15px white;
+}
+  h3:hover{
+    color:white;
+      text-shadow: 3px 3px 15px orange;
+  }
+img{
+  width: 10%
+}
+img:hover {
+  transform: scaleX(-1);
+  width: 12%
+}
+
