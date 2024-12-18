@@ -23,4 +23,28 @@ img:hover {
   transform: scaleX(-1);
   width: 12%
 }
+ul{
+  list-style-type: none;
+  background-color:#ffcbd2;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: fixed;
+  margin: 0;
+}
+
+li{
+  display: inline;
+  padding: 10px 10px;
+}
+a{
+  text-decoration:none;
+  color:salmon;
+  font-variant: small-caps;
+}
+li a: hover{
+  background-color: lightpink:
+    opacity: 1;
+  padding: 10px
+}
 
