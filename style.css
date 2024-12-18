@@ -24,7 +24,7 @@ img:hover {
   width: 12%
 }
 ul{
-  list-style-type: none;
+   list-style-type: none;
   background-color:#ffcbd2;
   width: 100%;
   left: 0;
@@ -32,7 +32,6 @@ ul{
   position: fixed;
   margin: 0;
 }
-
 li{
   display: inline;
   padding: 10px 10px;
@@ -47,4 +46,3 @@ li a: hover{
     opacity: 1;
   padding: 10px
 }
-
